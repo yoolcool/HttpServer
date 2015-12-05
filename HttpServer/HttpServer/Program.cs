@@ -19,7 +19,7 @@ namespace HttpServer
 
         static void newHttpRequest()
         {
-            String pageURL = "http://gall.dcinside.com/board/lists/?id=maplestory2&s_type=search_subject_memo&s_keyword=%EB%82%98%EA%B8%B0";
+            String pageURL = "http://www.naver.com";
             HttpWebRequest req = WebRequest.Create(pageURL) as HttpWebRequest;
 
             HttpWebResponse resp = req.GetResponse() as HttpWebResponse;
