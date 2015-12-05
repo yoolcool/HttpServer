@@ -1,0 +1,6 @@
+C:\Users\redma_000\Documents\Source\HttpServer\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+C:\Users\redma_000\Documents\Source\HttpServer\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+C:\Users\redma_000\Documents\Source\HttpServer\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+C:\Users\redma_000\Documents\Source\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+C:\Users\redma_000\Documents\Source\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+C:\Users\redma_000\Documents\Source\HttpServer\HttpServer\HttpServer\obj\Debug\HttpServer.pdb
