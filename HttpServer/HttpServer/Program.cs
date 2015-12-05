@@ -17,6 +17,8 @@ namespace HttpServer
             newHttpRequest();
         }
 
+
+
         static void newHttpRequest()
         {
             String pageURL = "http://www.naver.com";
